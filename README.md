@@ -1,9 +1,3 @@
----
-title: title
-layout: page
----
-
-
 # dateformatter.nvim
 
 Easily change dates to the prefered format.
